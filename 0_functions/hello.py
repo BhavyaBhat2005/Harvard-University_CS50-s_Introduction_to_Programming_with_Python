@@ -1,5 +1,5 @@
 #ask user for their name
-name = input("What's your name?")
+name = input("What's your name? ")
 
 #say hello to user
 
@@ -7,5 +7,4 @@ name = input("What's your name?")
 Another type of a comment
 """
 
-print("hello,")
-print(name)
+print("hello, " +  name)
